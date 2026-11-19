@@ -1,0 +1,9 @@
+{
+  "plugin.luadns-dns.name": "LuaDNS",
+  "plugin.luadns-dns.description": "通过 LuaDNS 完成 ACME DNS-01 验证。",
+  "plugin.luadns-dns.access.username.label": "LuaDNS 用户名",
+  "plugin.luadns-dns.access.username.placeholder": "请输入 LuaDNS 用户名",
+  "plugin.luadns-dns.access.apiKey.label": "LuaDNS API Key",
+  "plugin.luadns-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://app.luadns.com/api_keys\" target=\"_blank\">https://app.luadns.com/api_keys</a>",
+  "plugin.luadns-dns.access.apiKey.placeholder": "请输入 LuaDNS API Key"
+}

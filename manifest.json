@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "luadns",
+  "binary": "luadns-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via LuaDNS.",
+  "display_name_key": "plugin.luadns-dns.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "luadns-dns",
+  "provider_aliases": [
+    "luadns"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

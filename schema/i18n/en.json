@@ -1,0 +1,9 @@
+{
+  "plugin.luadns-dns.name": "LuaDNS",
+  "plugin.luadns-dns.description": "ACME DNS-01 via LuaDNS.",
+  "plugin.luadns-dns.access.username.label": "LuaDNS username",
+  "plugin.luadns-dns.access.username.placeholder": "Please enter LuaDNS username",
+  "plugin.luadns-dns.access.apiKey.label": "LuaDNS API key",
+  "plugin.luadns-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://app.luadns.com/api_keys\" target=\"_blank\">https://app.luadns.com/api_keys</a>",
+  "plugin.luadns-dns.access.apiKey.placeholder": "Please enter LuaDNS API key"
+}

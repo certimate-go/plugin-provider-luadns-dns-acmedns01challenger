@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "luadns",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "username",
+        "valueType": "text",
+        "labelKey": "plugin.luadns-dns.access.username.label",
+        "placeholderKey": "plugin.luadns-dns.access.username.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiKey",
+        "valueType": "secret",
+        "labelKey": "plugin.luadns-dns.access.apiKey.label",
+        "tooltipKey": "plugin.luadns-dns.access.apiKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.luadns-dns.access.apiKey.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
